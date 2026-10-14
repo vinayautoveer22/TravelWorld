@@ -3,10 +3,10 @@ export const photo = (id) => `https://images.unsplash.com/${id}?auto=format&fit=
 
 const indiaRows = [
  ['Kashmir','North India','7 days','Nature','A valley of still water, cedar forests, and mountain air.','photo-1595815771614-ade9d652a65d'],
- ['Srinagar','North India','4 days','Culture','Houseboats, old-city lanes, and unhurried mornings by Dal Lake.','photo-1566837497312-7be4b5c7c14d'],
- ['Gulmarg','North India','4 days','Adventure','Open meadows and high mountain scenery in every direction.','photo-1598091383021-15ddea10925d'],
+ ['Srinagar','North India','4 days','Culture','Houseboats, old-city lanes, and unhurried mornings by Dal Lake.','photo-1577500588651-5603d971f338'],
+ ['Gulmarg','North India','4 days','Adventure','Open meadows and high mountain scenery in every direction.','photo-1660802828644-c7707bbea8a7'],
  ['Pahalgam','North India','4 days','Nature','A riverside retreat framed by pine forests and the Lidder valley.','photo-1593181629936-11c609b8db9b'],
- ['Manali','North India','5 days','Adventure','Mountain-town energy, cedar trails, and time beside the Beas.','photo-1626621341517-bbf3d9990a23'],
+ ['Manali','North India','5 days','Adventure','Mountain-town energy, cedar trails, and time beside the Beas.','photo-1678261151315-887e2dd253e8'],
  ['Shimla','North India','3 days','Weekend','Colonial-era streets, hillside walks, and cool evenings.','photo-1597074866923-dc0589150358'],
  ['Spiti Valley','North India','8 days','Adventure','A high-altitude road journey through stark and beautiful landscapes.','photo-1527489377706-5bf97e608852'],
  ['Dharamshala','North India','4 days','Culture','A Himalayan foothill escape shaped by mountain paths and Tibetan culture.','photo-1605649487212-47bdab064df7'],
